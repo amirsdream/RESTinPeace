@@ -1,0 +1,4 @@
+package: RESTinPeace
+import:
+- package: github.com/gorilla/mux
+  version: v1.4.0
